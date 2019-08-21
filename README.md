@@ -14,10 +14,6 @@
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------:|
 | [Java基础](#Java基础) | [NIO](#NIO基础) | [并发容器](#Java并发容器) |[JVM](#JVM深度解析和面试点) |[分布式](#分布式理论基础和原理) |[zookeeper](#大数据框架开发基础-zookeeper)|[RPC](#大数据框架开发基础-RPC)|[Netty](#大数据框架基石之网路通信-Netty)|[Linux](/Linux基础/Linux基础和命令.md)|
 
-# 扫我关注公众号： #
-
-关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
-
 ![我的微信](https://github.com/mozhexiake/God-Of-Full-Stack/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.JPG)
  
  
