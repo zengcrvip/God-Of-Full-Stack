@@ -1,6 +1,6 @@
 
 <div align="center">  
-<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1566388086911&di=d514f2976457211cf3de9897f5cfebc6&imgtype=0&src=http%3A%2F%2Fi1.hdslb.com%2Fbfs%2Farchive%2F09fecf3a915055c120f9ebd39f85cdbde71e529d.png" width=""/>
 </br>
 
 已经更新100+篇~ </br>
