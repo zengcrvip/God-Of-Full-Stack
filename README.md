@@ -1,15 +1,15 @@
 
 <div align="center">  
-<img src="https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logo.jpg" width=""/>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1566388086911&di=d514f2976457211cf3de9897f5cfebc6&imgtype=0&src=http%3A%2F%2Fi1.hdslb.com%2Fbfs%2Farchive%2F09fecf3a915055c120f9ebd39f85cdbde71e529d.png" width=""/>
 </br>
 
 已经更新100+篇~ </br>
-关注[公众号](#公众号),BAT大神带你飞~
+关注XX,BAT大神带你飞~
 </div>
 
-## 大数据成神之路目录
+## 全栈成神之路目录
 
-### 大数据开发基础
+### 后端开发基础
 | :ski:Java基础| :memo:NIO|:book:并发|:guitar:JVM|:dollar:分布式|:floppy_disk:Zookeeper|:punch:RPC|:art:Netty|:computer:Linux|
 | :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------:|
 | [Java基础](#Java基础) | [NIO](#NIO基础) | [并发容器](#Java并发容器) |[JVM](#JVM深度解析和面试点) |[分布式](#分布式理论基础和原理) |[zookeeper](#大数据框架开发基础-zookeeper)|[RPC](#大数据框架开发基础-RPC)|[Netty](#大数据框架基石之网路通信-Netty)|[Linux](/Linux基础/Linux基础和命令.md)|
@@ -27,18 +27,18 @@
  ![小助手微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
 
 ### Java基础
- * [大数据成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
- * [大数据成神之路-Java高级特性增强(Synchronized关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(Synchronized%E5%85%B3%E9%94%AE%E5%AD%97).md)
- * [大数据成神之路-Java高级特性增强(volatile关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(volatile%E5%85%B3%E9%94%AE%E5%AD%97).md)
- * [大数据成神之路-Java高级特性增强(锁)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E9%94%81).md)
- * [大数据成神之路-Java高级特性增强(ArrayList/Vector)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6).md)
- * [大数据成神之路-Java高级特性增强(LinkedList)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA.md)
- * [大数据成神之路-Java高级特性增强(HashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashMap).md)
- * [大数据成神之路-Java高级特性增强(HashSet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashSet).md)
- * [大数据成神之路-Java高级特性增强(LinkedHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedHashMap).md)
+ * [全栈成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
+ * [全栈成神之路-Java高级特性增强(Synchronized关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(Synchronized%E5%85%B3%E9%94%AE%E5%AD%97).md)
+ * [全栈成神之路-Java高级特性增强(volatile关键字)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(volatile%E5%85%B3%E9%94%AE%E5%AD%97).md)
+ * [全栈成神之路-Java高级特性增强(锁)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E9%94%81).md)
+ * [全栈成神之路-Java高级特性增强(ArrayList/Vector)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6).md)
+ * [全栈成神之路-Java高级特性增强(LinkedList)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA.md)
+ * [全栈成神之路-Java高级特性增强(HashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashMap).md)
+ * [全栈成神之路-Java高级特性增强(HashSet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(HashSet).md)
+ * [全栈成神之路-Java高级特性增强(LinkedHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedHashMap).md)
  
 ### NIO基础
- * [大数据成神之路-Java高级特性增强-NIO大纲](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA-NIO.md)
+ * [全栈成神之路-Java高级特性增强-NIO大纲](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA-NIO.md)
  * [NIO概览](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/NIO%E6%A6%82%E8%A7%88.md)
  * [Java NIO之Buffer(缓冲区)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8BBuffer(%E7%BC%93%E5%86%B2%E5%8C%BA).md)
  * [Java NIO之Channel(通道)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8BChannel(%E9%80%9A%E9%81%93).md)
@@ -46,16 +46,16 @@
  * [Java NIO之拥抱Path和Files](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/Java%20NIO%E4%B9%8B%E6%8B%A5%E6%8A%B1Path%E5%92%8CFiles.md)
 
 ### Java并发容器
- * [大数据成神之路-Java高级特性增强(并发容器大纲)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8%E5%A4%A7%E7%BA%B2).md)
- * [大数据成神之路-Java高级特性增强(LinkedBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingQueue).md)
- * [大数据成神之路-Java高级特性增强(LinkedBlockingDeque)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingDeque).md)
- * [大数据成神之路-Java高级特性增强(CopyOnWriteArraySet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(CopyOnWriteArraySet).md)
- * [大数据成神之路-Java高级特性增强(CopyOnWriteArrayList)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(CopyOnWriteArrayList).md)
- * [大数据成神之路-Java高级特性增强(ConcurrentSkipListSet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentSkipListSet).md)
- * [大数据成神之路-Java高级特性增强(ConcurrentSkipListMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentSkipListMap).md)
- * [大数据成神之路-Java高级特性增强(ConcurrentLinkedQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentLinkedQueue).md)
- * [大数据成神之路-Java高级特性增强(ConcurrentHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentHashMap).md)
- * [大数据成神之路-Java高级特性增强(ArrayBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ArrayBlockingQueue).md)
+ * [全栈成神之路-Java高级特性增强(并发容器大纲)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8%E5%A4%A7%E7%BA%B2).md)
+ * [全栈成神之路-Java高级特性增强(LinkedBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingQueue).md)
+ * [全栈成神之路-Java高级特性增强(LinkedBlockingDeque)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(LinkedBlockingDeque).md)
+ * [全栈成神之路-Java高级特性增强(CopyOnWriteArraySet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(CopyOnWriteArraySet).md)
+ * [全栈成神之路-Java高级特性增强(CopyOnWriteArrayList)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(CopyOnWriteArrayList).md)
+ * [全栈成神之路-Java高级特性增强(ConcurrentSkipListSet)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentSkipListSet).md)
+ * [全栈成神之路-Java高级特性增强(ConcurrentSkipListMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentSkipListMap).md)
+ * [全栈成神之路-Java高级特性增强(ConcurrentLinkedQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentLinkedQueue).md)
+ * [全栈成神之路-Java高级特性增强(ConcurrentHashMap)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ConcurrentHashMap).md)
+ * [全栈成神之路-Java高级特性增强(ArrayBlockingQueue)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(ArrayBlockingQueue).md)
 
 ### JVM深度解析和面试点
    ##### 先来10篇基础热身
@@ -162,45 +162,13 @@
    * [Flink漫谈系列3-state](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Flink%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97/Apache-Flink-%E6%BC%AB%E8%B0%88%E7%B3%BB%E5%88%97(03)-State.md)
 
 ### Flink当前最火的实时计算引擎-删库跑路篇
-### [大数据算法(一)]
-### [大数据算法(二)]
+### [全栈算法(一)]
+### [全栈算法(二)]
 
 本系列的大纲会根据实际情况进行调整，欢迎大家关注~
 ## 声明
 文档中参考引用了大量网络上的博客和文章，大部分给出了出处，有些没写，如果造成了侵权行为，请您联系我，立即删除~
 
-## 我是谁？
-我/马云前同事/逍遥子的现同事/跟高晓松等人在一个App谈笑风生的男人/额O__O "…~
-
-## 为什么有这个文档
-- 以前这里只是几个txt文档
-- 是我面试腾讯阿里美团等公司大数据开发工程师的过程中总结出来的大数据开发的必知必会的知识点~
-
-但是，我发现，我有必要<br>
-总结一个大数据开发的进阶路线<br>
-我知道很多java后端开发同学厌倦CRUD了，但是又不知道大数据这个路线是啥样的~<br>
-这个是我的成长路线~<br>
-现在看起来<br>
-当初没有走错~<br>
-当然啦 数据开发有很多方向比如数据仓库，数据分析<br>
-我这里单纯面对数据应用层或者中间件方向，也是大数据方向个人成长比较好的一个方向(我自己认为的，你不同意就算了，哈哈)~ <br>
-这个是我的成长路线<br>
-欢迎各种PR，格式修改也行，总之一切能让这个文档好起来的，都是欢迎的~<br>
-
-## 言而总之
-**大数据成神之路** 该系列文章将为希望从事大数据开发或者由后端转型为大数据开发的工程师们指出需要学习的知识点和路径，本系列文章同时致敬我曾经在网络上看到无数个Java和大数据系列文章，深受启发同时也收货很多。
-
-本系列文章引用了很多或者二次总结了各位前辈的文章，每篇文章后面都给出了引用，本着不重复造轮子的原则，本人会对其中的一些错误进行订正，感谢各位前辈的付出~
-
-本系列文章希望为那些还在数据开发方向迷茫的人领路，文章会持续更新
-
-欢迎关注公众号‘大数据技术与架构’或者搜索import_bigdata关注~
-
-## 公众号
-
-公众号**大数据技术与架构**或者搜索**import_bigdata**关注
-
- ![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/qrcode_for_gh_7da7e7c9c668_258.jpg)
  
  
  
