@@ -18,13 +18,13 @@
 
 关注公众号：每天定时推送Hadoop/Spark/Flink等最新的**大数据干货**技术文章,学习资料下载等
 
-![我的微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/logos/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F%E5%9B%BE.png)
+![我的微信](https://github.com/mozhexiake/God-Of-Full-Stack/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.JPG)
  
  
 # 扫我加群：  #
  备注**加群**，小助手会拉你进大数据讨论组，一起学习交流，期待你的到来~
 
- ![小助手微信](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg)
+ ![小助手微信](https://github.com/mozhexiake/God-Of-Full-Stack/blob/master/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.JPG)
 
 ### Java基础
  * [全栈成神之路-Java高级特性增强(多线程)](https://github.com/wangzhiwubigdata/God-Of-BigData/blob/master/Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%88%90%E7%A5%9E%E4%B9%8B%E8%B7%AF-Java%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E5%A2%9E%E5%BC%BA(%E5%A4%9A%E7%BA%BF%E7%A8%8B).md)
